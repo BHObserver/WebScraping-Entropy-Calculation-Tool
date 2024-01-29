@@ -59,7 +59,11 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## Author
 
-- [Burhan Uddin](https://www.linkedin.com/in/bhobserver/) - [GitHub](https://github.com/bhobserver/)
+👤 **Burhan Uddin**
+
+- GitHub: [Burhan Uddin](https://github.com/BHObserver/)
+- Twitter: [Burhan Uddin](https://twitter.com/BurhanU14173360)
+- LinkedIn: [Burhan Uddin](https://www.linkedin.com/in/bhobserver/)
 
 ## Acknowledgment
 
