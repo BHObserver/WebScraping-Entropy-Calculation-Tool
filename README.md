@@ -10,6 +10,8 @@ This tool automates the process of uploading DNA or protein sequence files to a 
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+- [Author](#author)
+- [Acknowledgment](#acknowledgment)
 
 ## Overview
 
@@ -53,4 +55,12 @@ If you would like to contribute to the project, feel free to open an issue or su
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+## Author
+
+- [Burhan Uddin](https://www.linkedin.com/in/bhobserver/) - [GitHub](https://github.com/bhobserver/)
+
+## Acknowledgment
+
+Special thanks to [https://www.hiv.lanl.gov/content/index](https://www.hiv.lanl.gov/content/index) for providing the platform used by this tool.
